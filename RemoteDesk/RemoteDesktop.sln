@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteDesk", "RemoteDesk\RemoteDesk.vcxproj", "{3958C0F1-7647-47F5-8DAE-104694F4FE16}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPClient", "UDPClient\UDPClient.vcxproj", "{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPServer", "UDPServer\UDPServer.vcxproj", "{088DE4C9-26BD-429F-BF95-CAC704057265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3958C0F1-7647-47F5-8DAE-104694F4FE16}.Debug|ARM.ActiveCfg = Debug|Win32
+		{3958C0F1-7647-47F5-8DAE-104694F4FE16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3958C0F1-7647-47F5-8DAE-104694F4FE16}.Debug|Win32.Build.0 = Debug|Win32
+		{3958C0F1-7647-47F5-8DAE-104694F4FE16}.Debug|x64.ActiveCfg = Debug|Win32
+		{3958C0F1-7647-47F5-8DAE-104694F4FE16}.Release|ARM.ActiveCfg = Release|Win32
+		{3958C0F1-7647-47F5-8DAE-104694F4FE16}.Release|Win32.ActiveCfg = Release|Win32
+		{3958C0F1-7647-47F5-8DAE-104694F4FE16}.Release|Win32.Build.0 = Release|Win32
+		{3958C0F1-7647-47F5-8DAE-104694F4FE16}.Release|x64.ActiveCfg = Release|Win32
+		{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}.Debug|ARM.ActiveCfg = Debug|Win32
+		{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}.Debug|Win32.Build.0 = Debug|Win32
+		{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}.Debug|x64.ActiveCfg = Debug|Win32
+		{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}.Release|ARM.ActiveCfg = Release|Win32
+		{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}.Release|Win32.ActiveCfg = Release|Win32
+		{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}.Release|Win32.Build.0 = Release|Win32
+		{D0C91B78-6F3D-49AA-8E24-5E1291B0D098}.Release|x64.ActiveCfg = Release|Win32
+		{088DE4C9-26BD-429F-BF95-CAC704057265}.Debug|ARM.ActiveCfg = Debug|Win32
+		{088DE4C9-26BD-429F-BF95-CAC704057265}.Debug|Win32.ActiveCfg = Debug|Win32
+		{088DE4C9-26BD-429F-BF95-CAC704057265}.Debug|Win32.Build.0 = Debug|Win32
+		{088DE4C9-26BD-429F-BF95-CAC704057265}.Debug|x64.ActiveCfg = Debug|Win32
+		{088DE4C9-26BD-429F-BF95-CAC704057265}.Release|ARM.ActiveCfg = Release|Win32
+		{088DE4C9-26BD-429F-BF95-CAC704057265}.Release|Win32.ActiveCfg = Release|Win32
+		{088DE4C9-26BD-429F-BF95-CAC704057265}.Release|Win32.Build.0 = Release|Win32
+		{088DE4C9-26BD-429F-BF95-CAC704057265}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
